@@ -18,7 +18,7 @@
 7. Execute `yarn sequelize db:create` para criar a base de dados na instância do postgreSQL;
 8. Execute `yarn sequelize db:migrate` para rodar as migrations e criar as tabelas na base de dados;
 9. Import o aruivo `Crud-node.postman_collection.json` para o postman e utilize a collection de requests;
-10. Acesse a api em: [API](http://localhost:3000/) - http://localhost:3000/
+10. Acesse a api em: http://localhost:3000/
 
 
 ## Observação
