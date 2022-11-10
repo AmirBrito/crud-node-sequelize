@@ -22,5 +22,5 @@
 
 
 ## Observação
-Caso não deseje executar a base de dados no docker, altere as credenciais em `/src/config/database.js`;
+Caso não deseje executar a base de dados no docker, altere as credenciais em `/src/config/database.js`
 
